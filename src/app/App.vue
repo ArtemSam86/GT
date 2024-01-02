@@ -9,6 +9,6 @@ import { DefaultLayout } from './layouts'
   </DefaultLayout>
 </template>
 
-<style>
+<style lang="scss">
 @import './index.scss';
 </style>
